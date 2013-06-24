@@ -1,0 +1,4 @@
+dumbshell
+=========
+
+Naive shell implementation
